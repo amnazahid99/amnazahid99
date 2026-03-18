@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Hi, I'm Amna" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=99999&color=FFFFFF&center=true&vCenter=true&width=340&lines=Hi%2C+I'm+Amna+%F0%9F%91%8B" alt="Hi, I'm Amna 👋" />
 </p>
 
 <p align="center">
