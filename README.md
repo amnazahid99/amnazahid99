@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/amna-zahid-azs/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/amnazahid">
+  <a href="https://www.behance.net/amna_zahid">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/visualcraftco">
